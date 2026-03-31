@@ -1,0 +1,4 @@
+print("Hello, World!")
+print("My name is Ajaya.")
+print("I love playing video games.")
+print("The result of 9 + 6 is : " , 9 + 6)
